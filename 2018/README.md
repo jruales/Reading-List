@@ -204,11 +204,15 @@
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
 * Explained Visually - http://setosa.io/ev/
 
+### Finance
+* Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
+* Black-Scholes Formula (d1, d2, Call Price, Put Price, Greeks) - http://www.macroption.com/black-scholes-formula/
+* How I made $500k with machine learning and HFT (high frequency trading) - http://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft
+
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
   * Bach 2 Part Inventions and Sinfonias - https://www.youtube.com/watch?v=iHNxdOTFt7c
   * Johann Sebastian Bach - Prelude and Fugue in A minor BWV 543 - https://www.youtube.com/watch?v=_7u6jptcpqg
-
 
 
 
