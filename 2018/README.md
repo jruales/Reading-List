@@ -42,7 +42,6 @@
 ## Books
 
 ### Fiction
-* [100% done on 14 May 2017] El curioso incidente del perro a medianoche by Mark Haddon
 * [49% done] Nimona by Noelle Stevenson
 * [4% done] Ready Player One by Ernest Cline {Recommended on Andrej Karpathy's Goodreads reviews}
 * El héroe discreto by Mario Vargas Llosa {Personally recommended by C.S. in early 2016 to enrich my Spanish vocabulary and syntax}
@@ -51,8 +50,6 @@
 * The Three-Body Problem by Cixin Liu {Personally recommended by S.S. in late 2017}
 
 ### Non-Fiction -- Instructive
-* [100% done on 8 April 2017] Learning React by Kirupa Chinnathambi
-* [?% done] Learning React by Alex Banks and Eve Porcello
 * [60% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
