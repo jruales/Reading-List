@@ -22,6 +22,7 @@
     - [UI/UX](#uiux)
     - [Misc. Computer Science](#misc-computer-science)
     - [Finance](#finance)
+    - [Misc](#misc)
   - [Music](#music)
   - [Research Papers](#research-papers)
     - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
@@ -212,6 +213,9 @@
 * Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
 * Black-Scholes Formula (d1, d2, Call Price, Put Price, Greeks) - http://www.macroption.com/black-scholes-formula/
 * How I made $500k with machine learning and HFT (high frequency trading) - http://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft
+
+### Misc.
+* Mental Models - http://www.defmacro.org/2016/12/22/models.html
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
