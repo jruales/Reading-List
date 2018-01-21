@@ -22,7 +22,7 @@
     - [UI/UX](#uiux)
     - [Misc. Computer Science](#misc-computer-science)
     - [Finance](#finance)
-    - [Misc](#misc)
+    - [Misc.](#misc)
   - [Music](#music)
   - [Research Papers](#research-papers)
     - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
