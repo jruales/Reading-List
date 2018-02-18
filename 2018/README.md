@@ -26,6 +26,7 @@
   - [Music](#music)
   - [Research Papers](#research-papers)
     - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
+    - [Tips on Writing Research Papers](#tips-on-writing-research-papers)
     - [Publications](#publications)
     - [Publications by Company](#publications-by-company)
   - [Online Course Notes](#online-course-notes)
