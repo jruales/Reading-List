@@ -217,7 +217,6 @@
 
 ### Misc.
 * Mental Models - http://www.defmacro.org/2016/12/22/models.html
-* Heuristics for Scientific Writing (a Machine Learning Perspective) - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/#more-620
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
@@ -240,8 +239,14 @@
   * 2013: http://cs.stanford.edu/people/karpathy/nips2013/
 * GitXiv: http://gitxiv.com/
 * Hugo Larochelle's Notes on Research Papers: https://twitter.com/hugo_larochelle/timelines/639067398511968256
+* Short Science: http://www.shortscience.org/
 * Fermat's Library: http://fermatslibrary.com/
 * Paperscape: http://paperscape.org/
+* OpenReview: https://openreview.net/
+* Two Minute Papers: https://www.youtube.com/user/keeroyz
+
+### Tips on Writing Research Papers
+* Heuristics for Scientific Writing (a Machine Learning Perspective) - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/#more-620
 
 ### Publications
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
