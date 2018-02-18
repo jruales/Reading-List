@@ -217,6 +217,7 @@
 
 ### Misc.
 * Mental Models - http://www.defmacro.org/2016/12/22/models.html
+* Heuristics for Scientific Writing (a Machine Learning Perspective) - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/#more-620
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
