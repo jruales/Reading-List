@@ -1,6 +1,6 @@
 # Reading-List
-[Reading List 2018](https://github.com/jruales/Reading-List/tree/master/2018)
+[Reading List 2018](https://github.com/jruales/Reading-List/blob/master/2018/README.md)
 
 ## Archive
-* [Reading List 2017](https://github.com/jruales/Reading-List/tree/master/2017)
-* [Reading List 2016](https://github.com/jruales/Reading-List/tree/master/2016)
+* [Reading List 2017](https://github.com/jruales/Reading-List/tree/master/2017/README.md)
+* [Reading List 2016](https://github.com/jruales/Reading-List/tree/master/2016/README.md)
