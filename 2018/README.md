@@ -233,7 +233,10 @@
 * [ImageNet](http://www.image-net.org/) - An image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images
 * [WordNet](http://wordnet.princeton.edu/) - A lexical database for English
 * [MNIST](http://yann.lecun.com/exdb/mnist/) - Database of handwritten digits
-* [MS COCO](http://cocodataset.org/) - A large-scale object detection, segmentation, and captioning dataset. 
+* [MS COCO](http://cocodataset.org/) - A large-scale object detection, segmentation, and captioning dataset
+* [AudioSet](https://research.google.com/audioset/) - A large-scale dataset of manually annotated audio events
+* [AutonoVi-Sim](https://openreview.net/forum?id=Hycq9SLCW) - Autonomous Vehicle Simulation Platform with Weather, Sensing, and Traffic control
+* [Building Parser](http://buildingparser.stanford.edu/)
 
 ## Research Papers
 
