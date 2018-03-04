@@ -32,12 +32,20 @@
     - [Publications by Company](#publications-by-company)
   - [Online Course Notes](#online-course-notes)
     - [Not Taken Before](#not-taken-before)
+      - [Physics Courses](#physics-courses)
+      - [Math/Statistics Courses](#mathstatistics-courses)
+      - [ML/Robotics Courses](#mlrobotics-courses)
+      - [Graphics Courses](#graphics-courses)
+      - [Misc. Courses](#misc-courses)
     - [Taken Before (Review These)](#taken-before-review-these)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- npm install -g doctoc -->
 <!-- doctoc . -->
+
+
+
 
 
 # Reading List 2018
@@ -277,38 +285,51 @@
 
 
 
+
+
 ## Online Course Notes
 
 ### Not Taken Before
+
+#### Physics Courses
 * Caltech - Richard Feynman, Robert Leighton, and Matthew Sands - The Feynman Lectures on Physics - http://www.feynmanlectures.caltech.edu/
-* CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
-* Columbia University - Peter Allen - Humanoid Robots - http://www1.cs.columbia.edu/~allen/S16/
-* Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
-* Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
+
+#### Math/Statistics Courses
 * Columbia University - David Blei - Probabilistic Models for Discrete Data - F Mudd 633 - http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html
 * Columbia University - David Blei - Truth in Data - http://www.cs.columbia.edu/~blei/seminar/2015_truth_in_data/
-* Columbia University - Shree Nayar - Computational Imaging
-* Columbia University - John Paisley - COMS W4721 Spring 2017 Machine Learning for Data Science - http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html
-* Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
-  * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
-  * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
 * Cornell University - Spring 2015 - David Bindel - CS 4220/5223 + MATH 4260 Numerical Analysis: Linear and Nonlinear Problems - http://www.cs.cornell.edu/~bindel/class/cs4220-s15/
-* MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
 * NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
+* Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
+* University of Notre Dame - Nicholas Zabaras - Statistical Computing for Scientists and Engineers, Fall 2017  - https://www.zabaras.com/statisticalcomputing
+
+#### ML/Robotics Courses
+* Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
+* Columbia University - Peter Allen - Humanoid Robots - http://www1.cs.columbia.edu/~allen/S16/
+* Columbia University - John Paisley - COMS W4721 Spring 2017 Machine Learning for Data Science - http://www.columbia.edu/~jwp2128/Teaching/W4721/Spring2017/W4721Spring2017.html
 * NYU - Jonathan Goodman - Fall 2015 - MATH-UA.250.001 - Mathematics of Finance - http://www.math.nyu.edu/faculty/goodman/teaching/MathFin/index.html
 * NYU - Jonathan Goodman - Spring 2008 - G63.2706.001 - PDE for Finance - http://www.math.nyu.edu/faculty/goodman/teaching/PDEfin/index.html
 * NYU - Jonathan Goodman - All courses: http://www.math.nyu.edu/faculty/goodman/teaching/teaching.html
-* Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
 * Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
-* Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
 * University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 * University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - https://github.com/joanbruna/stat212b
 * University of California, Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017 - http://rll.berkeley.edu/deeprlcourse/
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-* University of Notre Dame - Nicholas Zabaras - Statistical Computing for Scientists and Engineers, Fall 2017  - https://www.zabaras.com/statisticalcomputing
+* University of Toronto - Ruslan Salakhutdinov - Large Scale Machine Learning - http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/
 
-### Taken Before (Review These)
+#### Graphics Courses
+* Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
+* Columbia University - Shree Nayar - Computational Imaging
+* Cornell University - Steve Marschner - CS6630 Realistic Image Synthesis
+  * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
+  * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
+* MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
+* Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
+
+#### Misc. Courses
+* CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
+
+### Taken Before (For Review)
 * Columbia University - Tony Jebara - Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4771/
 * Columbia University - Tony Jebara - Adv. Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4772/
 * Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
