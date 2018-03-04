@@ -227,9 +227,13 @@
 
 
 ## Datasets
-* UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/datasets.html
-
-
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
+* [MuJoCo](http://www.mujoco.org/) - Advanced physics simulation
+* [ATARI Grand Challenge Data](http://atarigrandchallenge.com/data)
+* [ImageNet](http://www.image-net.org/) - An image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images
+* [WordNet](http://wordnet.princeton.edu/) - A lexical database for English
+* [MNIST](http://yann.lecun.com/exdb/mnist/) - Database of handwritten digits
+* [MS COCO](http://cocodataset.org/) - A large-scale object detection, segmentation, and captioning dataset. 
 
 ## Research Papers
 
