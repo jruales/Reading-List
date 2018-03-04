@@ -24,6 +24,7 @@
     - [Finance](#finance)
     - [Misc.](#misc)
   - [Music](#music)
+  - [Datasets](#datasets)
   - [Research Papers](#research-papers)
     - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
     - [Tips on Writing Research Papers](#tips-on-writing-research-papers)
@@ -225,7 +226,8 @@
   * Johann Sebastian Bach - Prelude and Fugue in A minor BWV 543 - https://www.youtube.com/watch?v=_7u6jptcpqg
 
 
-
+## Datasets
+* UCI Machine Learning Repository - https://archive.ics.uci.edu/ml/datasets.html
 
 
 
@@ -264,10 +266,6 @@
 * Google Research Publications - http://research.google.com/pubs/papers.html
 * Microsoft Research Publications - http://research.microsoft.com/apps/catalog/default.aspx?t=publications
 * Pixar Online Library - http://graphics.pixar.com/library/
-
-
-
-
 
 
 
