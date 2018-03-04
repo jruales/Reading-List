@@ -312,8 +312,8 @@
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
 * Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
 * University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-* University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - https://github.com/joanbruna/stat212b
-* University of California, Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017 - http://rll.berkeley.edu/deeprlcourse/
+* University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - Joan Bruna - https://github.com/joanbruna/stat212b
+* University of California, Berkeley - CS 294: Deep Reinforcement Learning, Spring 2017 - Sergey Levine - http://rll.berkeley.edu/deeprlcourse/
 * University of California, Berkeley - Tutorial on Deep Learning - Ruslan Salakhutdinov - https://simons.berkeley.edu/talks/tutorial-deep-learning
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 * University of Toronto - Ruslan Salakhutdinov - Large Scale Machine Learning - http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/
