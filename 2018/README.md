@@ -344,4 +344,5 @@
 * Some tips for your Google Summer of Code Application - by Chris Rackauckas - http://www.stochasticlifestyle.com/tips-google-summer-code-application/
 * Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
 * A Survival Guide to a PhD - by Andrej Karpathy - http://karpathy.github.io/2016/09/07/phd/
+* Teach Yourself Programming in Ten Years - by Peter Norvig - http://norvig.com/21-days.html
 * Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
