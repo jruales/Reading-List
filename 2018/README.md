@@ -38,6 +38,7 @@
       - [Graphics Courses](#graphics-courses)
       - [Misc. Courses](#misc-courses)
     - [Taken Before (Review These)](#taken-before-review-these)
+  - [Advice](#advice)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -336,3 +337,11 @@
 * Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
 * Columbia University - John Paisley - Bayesian Models for Machine Learning: - http://www.columbia.edu/~jwp2128/Teaching/E6892/E6892Fall2015.html
 * Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
+
+
+## Advice
+* How to compose an NSF GRFP application packet you can be proud of - by Katie Kuksenok - https://medium.com/ok-work/how-to-compose-an-nsf-grfp-application-packet-you-can-be-proud-of-b5f848dee19
+* Some tips for your Google Summer of Code Application - by Chris Rackauckas - http://www.stochasticlifestyle.com/tips-google-summer-code-application/
+* Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
+* A Survival Guide to a PhD - by Andrej Karpathy - http://karpathy.github.io/2016/09/07/phd/
+* Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
