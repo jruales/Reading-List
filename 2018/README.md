@@ -73,6 +73,7 @@
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
 * Barron's AP Biology by Deborah T. Goldberg
 * Superintelligence by Nick Bostrom {Recommended by C.D. in early 2018}
+* Drive: The Surprising Truch About What Motivates Us by Daniel Pink {Recommended by J.C. in early 2018}
 
 ### Biographical/Historical
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
