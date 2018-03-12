@@ -342,6 +342,7 @@
 
 ## Advice
 * How to compose an NSF GRFP application packet you can be proud of - by Katie Kuksenok - https://medium.com/ok-work/how-to-compose-an-nsf-grfp-application-packet-you-can-be-proud-of-b5f848dee19
+* Tool Spotlight: Apps for Writing - by Katie Kuksenok - https://medium.com/ok-work/apps-i-m-using-for-writing-a-lot-7945ee8737fd
 * Some tips for your Google Summer of Code Application - by Chris Rackauckas - http://www.stochasticlifestyle.com/tips-google-summer-code-application/
 * Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
 * A Survival Guide to a PhD - by Andrej Karpathy - http://karpathy.github.io/2016/09/07/phd/
