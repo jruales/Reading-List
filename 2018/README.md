@@ -204,7 +204,6 @@
 * ★★★★★ A Beginner’s Guide to the True Order of SQL Operations - https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/
 * The Probability and Statistics Cookbook - http://statistics.zone/
 * Deep RL Bootcamp - Berkeley, CA - https://sites.google.com/view/deep-rl-bootcamp/lectures
-* Rules of Machine Learning: Best Practices for ML Engineering - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
@@ -265,9 +264,6 @@
 * Paperscape: http://paperscape.org/
 * OpenReview: https://openreview.net/
 * Two Minute Papers: https://www.youtube.com/user/keeroyz
-
-### Tips on Writing Research Papers
-* Heuristics for Scientific Writing (a Machine Learning Perspective) - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/#more-620
 
 ### Publications
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
@@ -351,3 +347,5 @@
 * Getting things done - by Julia Evans - https://jvns.ca/blog/2016/09/19/getting-things-done/
 * So you want to be a wizard - by Julia Evans - https://jvns.ca/blog/so-you-want-to-be-a-wizard/ - https://jvns.ca/zines/
 * Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
+* Rules of Machine Learning: Best Practices for ML Engineering - by Martin Zinkevich - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+* Heuristics for Scientific Writing (a Machine Learning Perspective) - by Zachary C. Lipton - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
