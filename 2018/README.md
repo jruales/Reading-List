@@ -347,4 +347,6 @@
 * Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
 * A Survival Guide to a PhD - by Andrej Karpathy - http://karpathy.github.io/2016/09/07/phd/
 * Teach Yourself Programming in Ten Years - by Peter Norvig - http://norvig.com/21-days.html
+* Getting things done - by Julia Evans - https://jvns.ca/blog/2016/09/19/getting-things-done/
+* So you want to be a wizard - by Julia Evans - https://jvns.ca/blog/so-you-want-to-be-a-wizard/ - https://jvns.ca/zines/
 * Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
