@@ -350,3 +350,5 @@
 * Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
 * Rules of Machine Learning: Best Practices for ML Engineering - by Martin Zinkevich - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - by Zachary C. Lipton - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
+* STAR (situation, task, action, result) - [Wiki link](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+* SMART (Specific, Measurable, Achievable, Results-Based, Time-bound) - https://en.wikipedia.org/wiki/SMART_criteria
