@@ -352,3 +352,4 @@
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - by Zachary C. Lipton - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
 * STAR (situation, task, action, result) - [Wiki link](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 * SMART (Specific, Measurable, Achievable, Results-Based, Time-bound) - https://en.wikipedia.org/wiki/SMART_criteria
+* On Avoiding Stress Culture - by Jean Yang - http://jxyzabc.blogspot.com/2016/09/on-avoiding-stress-culture.html
