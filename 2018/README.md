@@ -204,6 +204,7 @@
 * ★★★★★ A Beginner’s Guide to the True Order of SQL Operations - https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/
 * The Probability and Statistics Cookbook - http://statistics.zone/
 * Deep RL Bootcamp - Berkeley, CA - https://sites.google.com/view/deep-rl-bootcamp/lectures
+* Pandas Dataframe Basics - https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
