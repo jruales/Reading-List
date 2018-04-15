@@ -101,6 +101,9 @@
 * {Some book on AWS}
 * {Some book on Hadoop, Hive, Spark, and such}
 
+### Graphics
+* Discrete Differential Geometry: An Applied Introduction by Keenan Crane - https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf
+
 ### Linguistics
 * Phonetics: Transcription, Production, Acoustics, and Perception by Heening Reetz
 * Exercises in French Phonics by Francis W. Nachtmann
