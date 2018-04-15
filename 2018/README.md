@@ -364,3 +364,4 @@
 * SMART (Specific, Measurable, Achievable, Results-Based, Time-bound) - https://en.wikipedia.org/wiki/SMART_criteria
 * On Avoiding Stress Culture - by Jean Yang - http://jxyzabc.blogspot.com/2016/09/on-avoiding-stress-culture.html
 * A survivor’s guide to Artificial Intelligence courses at Stanford by Chip Huyen - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
+* The Feynman Technique: The Best Way to Learn Anything (article by Farnam Street) - https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
