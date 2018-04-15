@@ -359,3 +359,4 @@
 * STAR (situation, task, action, result) - [Wiki link](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 * SMART (Specific, Measurable, Achievable, Results-Based, Time-bound) - https://en.wikipedia.org/wiki/SMART_criteria
 * On Avoiding Stress Culture - by Jean Yang - http://jxyzabc.blogspot.com/2016/09/on-avoiding-stress-culture.html
+* A survivor’s guide to Artificial Intelligence courses at Stanford by Chip Huyen - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
