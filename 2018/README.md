@@ -92,7 +92,7 @@
 ## Textbooks
 
 ### Math & Machine Learning
-* Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio https://goodfeli.github.io/dlbook/
+* Deep Learning by Ian Goodfellow, Aaron Courville, and Yoshua Bengio http://www.deeplearningbook.org/
 * Reinforcement Learning: An Introduction (e-book) by Richard S. Sutton and Andrew G. Barto - https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html
 * Pattern Recognition and Machine Learning by Christopher Bishop {Recommended to me by several professors}
 * Convex Optimization: Algorithms and Complexity by Sébastien Bubeck http://arxiv.org/pdf/1405.4980.pdf
