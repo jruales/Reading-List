@@ -19,7 +19,7 @@
   - [Tutorials, blogs, videos, etc.](#tutorials-blogs-videos-etc)
     - [Math & Machine Learning](#math-&-machine-learning)
     - [Web Dev](#web-dev)
-    - [Graphics](#graphics)
+    - [Graphics](#graphics-1)
     - [UI/UX](#uiux)
     - [Misc. Computer Science](#misc-computer-science)
     - [Finance](#finance)
