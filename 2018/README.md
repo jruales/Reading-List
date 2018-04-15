@@ -9,6 +9,7 @@
     - [Non-Fiction -- Biographical/Historical](#non-fiction----biographicalhistorical)
   - [Textbooks](#textbooks)
     - [Math & Machine Learning](#math-&-machine-learning-1)
+    - [Graphics](#graphics)
     - [Piano](#piano)
     - [Graphic Design](#graphic-design)
     - [Software Engineering](#software-engineering)
