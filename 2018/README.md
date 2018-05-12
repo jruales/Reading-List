@@ -346,7 +346,7 @@
 * Columbia University - Tony Jebara - Adv. Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4772/
 * Columbia University - Michael Collins - Natural Language Processing 4705 - http://www.cs.columbia.edu/~cs4705/
 * Columbia University - John Paisley - Bayesian Models for Machine Learning: - http://www.columbia.edu/~jwp2128/Teaching/E6892/E6892Fall2015.html
-* Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html
+* Columbia University - David Blei - Foundations of Graphical Models - http://www.cs.columbia.edu/~blei/fogm/2015F/index.html http://www.cs.columbia.edu/~blei/fogm/2016F/index.html
 
 
 ## Advice
