@@ -102,6 +102,7 @@
 * Good books for all things data - http://multithreaded.stitchfix.com/blog/2016/06/09/ds-books/
 * Neural Networks and Deep Learning by Michael Nielsen - http://neuralnetworksanddeeplearning.com/
 * Speech and Language Processing by Dan Jurafsky and James H. Martin - https://web.stanford.edu/~jurafsky/slp3/
+* Interactive Linear Algebra - http://immersivemath.com/ila/#
 * {Some book on OpenCV in Python}
 * {Some book on AWS}
 * {Some book on Hadoop, Hive, Spark, and such}
