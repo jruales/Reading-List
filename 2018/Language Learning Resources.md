@@ -1,0 +1,11 @@
+- learning the IPA alphabet using mostly wikipedia, YouTube, and some apps (AV Phonetics is pretty good)
+- forvo.com to look up pronunciations
+- wiktionary to look up phonetic transcriptions
+- the wikipedia page "French phonology" or "{language name} phonology"
+- the free version of the lingQ app with all features and gamification turned off, just to have text with audio transcriptions
+- Booklet "Exercises in French Phonics", which explains French phonetics and uses IPA notation
+- podcasts
+- Switching your phone's default language to the foreign language
+- Playing video games in the foreign language
+- movies/shows in the foreign language with English subtitles
+- learning the lyrics to a song you like in that language
