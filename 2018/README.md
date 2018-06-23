@@ -270,6 +270,7 @@
   * 2014: http://cs.stanford.edu/people/karpathy/nips2014/
   * 2013: http://cs.stanford.edu/people/karpathy/nips2013/
 * GitXiv: http://gitxiv.com/
+* Papers with Code: https://paperswithcode.com/
 * Hugo Larochelle's Notes on Research Papers: https://twitter.com/hugo_larochelle/timelines/639067398511968256
 * Short Science: http://www.shortscience.org/
 * Fermat's Library: http://fermatslibrary.com/
