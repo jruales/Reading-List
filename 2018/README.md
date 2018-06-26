@@ -342,6 +342,7 @@
   * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
 * MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
 * Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
+* UPenn - CIS 700 - Special Topics in Procedural Graphics - https://cis700-procedural-graphics.github.io/
 
 #### Misc. Courses
 * CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
