@@ -259,6 +259,7 @@
 * [AutonoVi-Sim](https://openreview.net/forum?id=Hycq9SLCW) - Autonomous Vehicle Simulation Platform with Weather, Sensing, and Traffic control
 * [Building Parser](http://buildingparser.stanford.edu/)
 * ["The 50 Best Free Datasets for Machine Learning"](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
+* [Microsoft Research Open Data](https://msropendata.com/)
 
 ## Research Papers
 
