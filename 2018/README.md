@@ -213,6 +213,7 @@
 * The Probability and Statistics Cookbook - http://statistics.zone/
 * Deep RL Bootcamp - Berkeley, CA - https://sites.google.com/view/deep-rl-bootcamp/lectures
 * Pandas Dataframe Basics - https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb
+* Understanding and Implementing CycleGAN in TensorFlow by Hardik Bansal and Archit Rathore - https://hardikbansal.github.io/CycleGANBlog/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
