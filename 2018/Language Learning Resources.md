@@ -9,3 +9,5 @@
 - Playing video games in the foreign language
 - movies/shows in the foreign language with English subtitles
 - learning the lyrics to a song you like in that language
+
+- Italian conjugation quiz http://conjugate.in/
