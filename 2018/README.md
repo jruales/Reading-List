@@ -374,3 +374,4 @@
 * A survivor’s guide to Artificial Intelligence courses at Stanford by Chip Huyen - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
 * The Feynman Technique: The Best Way to Learn Anything (article by Farnam Street) - https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
 * Calendar. Not to-do lists. by Devi Parikh - https://medium.com/@deviparikh/calendar-in-stead-of-to-do-lists-9ada86a512dd
+* Resume for Machine Learning by Siraj Raval - https://www.youtube.com/watch?v=nMK94JlKRb4
