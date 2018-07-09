@@ -214,6 +214,7 @@
 * Deep RL Bootcamp - Berkeley, CA - https://sites.google.com/view/deep-rl-bootcamp/lectures
 * Pandas Dataframe Basics - https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb
 * Understanding and Implementing CycleGAN in TensorFlow by Hardik Bansal and Archit Rathore - https://hardikbansal.github.io/CycleGANBlog/
+* NLP's ImageNet Moment has arrived - https://thegradient.pub/nlp-imagenet/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
@@ -288,6 +289,7 @@
 * Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform - http://www.comp.nus.edu.sg/~tants/jfa.html
 * Understanding Neural Networks Through Deep Visualization by Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, and Hod Lipson - http://yosinski.com/deepvis
 * NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow - https://arxiv.org/pdf/1701.00160v4.pdf
+* DeepMoji [Demo](https://deepmoji.mit.edu/) [Paper](https://arxiv.org/abs/1708.00524) [Blog post](https://medium.com/@bjarkefelbo/what-can-we-learn-from-emojis-6beb165a5ea0) [FAQ](https://www.media.mit.edu/projects/deepmoji/overview/)
 
 ### Publications by Company
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
