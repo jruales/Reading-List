@@ -377,3 +377,4 @@
 * The Feynman Technique: The Best Way to Learn Anything (article by Farnam Street) - https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
 * Calendar. Not to-do lists. by Devi Parikh - https://medium.com/@deviparikh/calendar-in-stead-of-to-do-lists-9ada86a512dd
 * Resume for Machine Learning by Siraj Raval - https://www.youtube.com/watch?v=nMK94JlKRb4
+* Meetup Cookbook - https://tigrennatenn.neocities.org/meetup_cookbook.html
