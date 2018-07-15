@@ -229,6 +229,7 @@
 ### UI/UX
 * What is Peripheral Vision? - http://www.simplifyinginterfaces.com/2008/10/08/what-is-peripheral-vision/
 * Google Big Picture Group visualizations - https://research.google.com/bigpicture/
+* The future of data visualization - https://www.youtube.com/watch?v=vc1bq0qIKoA
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
