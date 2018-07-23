@@ -11,3 +11,4 @@
 - learning the lyrics to a song you like in that language
 - Italian conjugation quiz http://conjugate.in/
 - https://www.speechace.com/
+- https://ai.glossika.com/
