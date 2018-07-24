@@ -12,3 +12,4 @@
 - Italian conjugation quiz http://conjugate.in/
 - https://www.speechace.com/
 - https://ai.glossika.com/
+- Playing Stardew Valley in a foreign language and looking up sentences in Google Translate using speech-to-text
