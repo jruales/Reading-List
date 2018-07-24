@@ -379,3 +379,4 @@
 * Calendar. Not to-do lists. by Devi Parikh - https://medium.com/@deviparikh/calendar-in-stead-of-to-do-lists-9ada86a512dd
 * Resume for Machine Learning by Siraj Raval - https://www.youtube.com/watch?v=nMK94JlKRb4
 * Meetup Cookbook - https://tigrennatenn.neocities.org/meetup_cookbook.html
+* Lessons from my first year of live coding on Twitch by Suz Hinton - https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
