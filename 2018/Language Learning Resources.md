@@ -14,4 +14,5 @@
 - https://ai.glossika.com/
 - Playing Stardew Valley in a foreign language and looking up sentences in Google Translate using speech-to-text
 - While doing everyday activities or taking a walk, try to name the objects around you or describe your surroundings in the foreign language you're learning. If you remember how to say it, you can use the speech-to-text feature of Google Translate to make sure you're pronouncing it correctly and that it means what you think it means. If you don't remember, you can still use Google Translate to speak it in English and see that it is in the target language.
-- https://www.fluentu.com/
+- https://www.fluentu.com/ (haven't tried this one yet)
+- Listening to Disney song playlist in the foreign language
