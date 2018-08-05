@@ -283,6 +283,7 @@
 * OpenReview: https://openreview.net/
 * Two Minute Papers: https://www.youtube.com/user/keeroyz
 * ResearchGate: https://www.researchgate.net/
+* Seedbank: https://tools.google.com/seedbank/
 
 ### Publications
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
