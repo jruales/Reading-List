@@ -225,6 +225,7 @@
 * Eric Jang's List of Computer Graphics Resources - https://github.com/ericjang/awesome-graphics
 * Khan Academy - Pixar in a Box - https://www.khanacademy.org/partner-content/pixar
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
+* Equations and Theory behind Google's Filament (Physically-Based Rendering Engine) - https://google.github.io/filament/Filament.md.html
 
 ### UI/UX
 * What is Peripheral Vision? - http://www.simplifyinginterfaces.com/2008/10/08/what-is-peripheral-vision/
