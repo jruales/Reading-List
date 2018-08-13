@@ -339,6 +339,7 @@
 * University of California, Berkeley - Tutorial on Deep Learning - Ruslan Salakhutdinov - https://simons.berkeley.edu/talks/tutorial-deep-learning
 * University of Oxford - Nando di Freitas - Machine Learning (includes Neural Networks in Torch, RNNs and LSTMs, Alex Graves's handwritten recognition, variational autoencoders, reinforcement learning) - https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 * University of Toronto - Ruslan Salakhutdinov - Large Scale Machine Learning - http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/
+* Carnegie Mellon - Graham Neubig - http://phontron.com/class/mtandseq2seq2018/schedule.html
 
 #### Graphics Courses
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
