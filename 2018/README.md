@@ -215,6 +215,7 @@
 * Pandas Dataframe Basics - https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb
 * Understanding and Implementing CycleGAN in TensorFlow by Hardik Bansal and Archit Rathore - https://hardikbansal.github.io/CycleGANBlog/
 * 9 Things You Should Know About TensorFlow - https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995
+* Stanford CS 229 Cheatsheets - https://stanford.edu/~shervine/teaching/cs-229.html
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
