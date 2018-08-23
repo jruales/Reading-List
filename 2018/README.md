@@ -217,6 +217,7 @@
 * 9 Things You Should Know About TensorFlow - https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995
 * Stanford CS 229 Cheatsheets - https://stanford.edu/~shervine/teaching/cs-229.html
 * From GAN to WGAN by Lilian Weng - https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
+* [Tool] Public Cloud Services Comparison - http://comparecloud.in/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
