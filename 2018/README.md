@@ -26,6 +26,7 @@
     - [Misc.](#misc)
   - [Music](#music)
   - [Datasets](#datasets)
+  - [Tools](#tools)
   - [Research Papers](#research-papers)
     - [Tools for Finding and Understanding Research Papers](#tools-for-finding-and-understanding-research-papers)
     - [Tips on Writing Research Papers](#tips-on-writing-research-papers)
@@ -152,7 +153,6 @@
 ## Tutorials, blogs, videos, etc.
 
 ### Math & Machine Learning
-* Metacademy - https://www.metacademy.org/
 * Duke University - Computational Statistics in Python - http://people.duke.edu/~ccc14/sta-663/
 * Stanford deep learning tutorial - http://ufldl.stanford.edu/
 * Richard Socher, Chris Manning and Yoshua Bengio - 2013 - Tutorial: Deep Learning for NLP (without Magic) - http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial
@@ -205,10 +205,9 @@
 * NIPS 2015 Videos: https://nips.cc/Conferences/2015/Schedule
 * Neural Network playground in JS - http://playground.tensorflow.org/
 * Microsoft Research NIPS 2015 Videos - http://research.microsoft.com/apps/catalog/default.aspx?t=videos
-* OpenAI Gym - https://gym.openai.com/
 * A gallery of interesting IPython Notebooks - https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 * No Free Hunch (Kaggle Blog) - http://blog.kaggle.com/
-  * Turorials: http://blog.kaggle.com/category/tutorials/
+  * Tutorials: http://blog.kaggle.com/category/tutorials/
 * Introduction to data analytics with pandas - https://github.com/QCaudron/pydata_pandas
 * A Beginner’s Guide to the True Order of SQL Operations - https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/
 * The Probability and Statistics Cookbook - http://statistics.zone/
@@ -218,7 +217,6 @@
 * 9 Things You Should Know About TensorFlow - https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995
 * Stanford CS 229 Cheatsheets - https://stanford.edu/~shervine/teaching/cs-229.html
 * From GAN to WGAN by Lilian Weng - https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
-* [Tool] Public Cloud Services Comparison - http://comparecloud.in/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
@@ -269,9 +267,11 @@
 * ["The 50 Best Free Datasets for Machine Learning"](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
 * [Microsoft Research Open Data](https://msropendata.com/)
 
-## Research Papers
 
-### Tools for Finding and Understanding Research Papers
+
+## Tools
+
+### Research Tools
 * arXiv: http://arxiv.org/
 * Arxiv Sanity Preserver: http://www.arxiv-sanity.com/
 * User-friendly NIPS paper search:
@@ -290,6 +290,20 @@
 * ResearchGate: https://www.researchgate.net/
 * Seedbank: https://tools.google.com/seedbank/
 * Academic Torrents: http://academictorrents.com/
+
+### Computer Science Tools
+* Public Cloud Services Comparison - http://comparecloud.in/
+
+### Machine Learning Tools
+* Metacademy - https://www.metacademy.org/
+* OpenAI Gym - https://gym.openai.com/
+
+### Design Tools
+* Picular (search engine for colors) - https://picular.co/
+
+
+
+## Research Papers
 
 ### Publications
 * Variational Inference: A Review for Statisticians by David M. Blei, Alp Kucukelbir, and Jon D. McAuliffe http://arxiv.org/abs/1601.00670
