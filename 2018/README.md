@@ -255,6 +255,7 @@
 
 ## Datasets
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html)
+* [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 * [MuJoCo](http://www.mujoco.org/) - Advanced physics simulation
 * [ATARI Grand Challenge Data](http://atarigrandchallenge.com/data)
 * [ImageNet](http://www.image-net.org/) - An image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images
@@ -274,6 +275,7 @@
 ### Research Tools
 * arXiv: http://arxiv.org/
 * Arxiv Sanity Preserver: http://www.arxiv-sanity.com/
+* Google Dataset Search: https://toolbox.google.com/datasetsearch
 * User-friendly NIPS paper search:
   * 2015: http://cs.stanford.edu/people/karpathy/nips2015/
   * 2014: http://cs.stanford.edu/people/karpathy/nips2014/
