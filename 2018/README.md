@@ -77,8 +77,10 @@
 * Moonwalking with Einstein by Joshua Foer {Mentioned in passing by M.C. in late 2015}
 * Mindset: The New Psychology of Success by Carol Dweck {Advocated by Khan Academy and recommended on Gates Notes blog}
 * Barron's AP Biology by Deborah T. Goldberg
-* Superintelligence by Nick Bostrom {Recommended by C.DC. in early 2018}
 * Lean Cutomer Development by Cindy Alvarez {Recommended by Scott Guthrie in Early 2018}
+* Getting Things Done {Recommended by B.S. in 2018}
+* Take Back Your Life!: Using Outlook to Get Organized and Stay Organized {Recommended by B.S. in 2018}
+* The Organized Mind {Recommended by D.V. in 2018}
 
 ### Biographical/Historical
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
@@ -87,7 +89,7 @@
 ### Non-Fiction -- Other
 * Regenesis: How Synthetic Biology Will Reinvent Nature and Ourselves {Personally recommended by M.C. in early 2016}
 * Profiles of the Future by Arthur C. Clarke {Recommended on Andrej Karpathy's Goodreads reviews}
-
+* Superintelligence by Nick Bostrom {Recommended by C.DC. in early 2018}
 
 
 
