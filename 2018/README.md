@@ -249,6 +249,7 @@
 ### Misc.
 * Mental Models - http://www.defmacro.org/2016/12/22/models.html
 * Webtoon Editing Tips: Techniques for Vertical Storytelling - https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24
+* The Holloway Guide to Equity Compensation - https://www.holloway.com/g/equity-compensation
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
