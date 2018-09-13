@@ -279,7 +279,8 @@
 
 ### Research Tools
 * arXiv: http://arxiv.org/
-* Arxiv Sanity Preserver: http://www.arxiv-sanity.com/
+* ArXiv Sanity Preserver: http://www.arxiv-sanity.com/
+* ArXiv Vanity: https://www.arxiv-vanity.com/ 
 * Google Dataset Search: https://toolbox.google.com/datasetsearch
 * User-friendly NIPS paper search:
   * 2015: http://cs.stanford.edu/people/karpathy/nips2015/
