@@ -220,6 +220,7 @@
 * Stanford CS 229 Cheatsheets - https://stanford.edu/~shervine/teaching/cs-229.html
 * From GAN to WGAN by Lilian Weng - https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 * On Word Embeddings - Part 1 - by Sebastian Ruder - http://ruder.io/word-embeddings-1/index.html
+* Playing a game of GANstruction by Helena Sarin - https://thegradient.pub/playing-a-game-of-ganstruction/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
