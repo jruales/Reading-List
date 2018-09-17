@@ -351,6 +351,7 @@
 * NYU - Jonathan Goodman - Spring 2016 - MATH-GA 2020.001 and CSCI-GA 2421.001 - Numerical Methods II - http://www.math.nyu.edu/faculty/goodman/teaching/NumericalMethodsII2016/index.html
 * Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
 * University of Notre Dame - Nicholas Zabaras - Statistical Computing for Scientists and Engineers, Fall 2017  - https://www.zabaras.com/statisticalcomputing
+* MIT 18.06 Linear Algebra - Prof. Gilbert Strang - https://www.youtube.com/watch?v=ZK3O402wf1c
 
 #### ML/Robotics Courses
 * Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
