@@ -420,3 +420,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Lessons from my first year of live coding on Twitch by Suz Hinton - https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
 * How to Get Your SIGGRAPH Paper Rejected, by Jim Kajiya - https://www.siggraph.org/sites/default/files/kajiya.pdf
 * Notes to myself on software engineering by François Chollet - https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d
+* Should I do the thing? by Kit Kuksenok - https://ksen0.github.io/do-the-thing/
