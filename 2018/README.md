@@ -222,6 +222,7 @@
 * On Word Embeddings - Part 1 - by Sebastian Ruder - http://ruder.io/word-embeddings-1/index.html
 * Playing a game of GANstruction by Helena Sarin - https://thegradient.pub/playing-a-game-of-ganstruction/
 * Forward versus Reverse Mode Automatic Differentiation understood as linear system solving by Alec Jacobson - http://www.alecjacobson.com/weblog/?p=4752
+* Why building your own Deep Learning Computer is 10x cheaper than AWS - by Jeff Chen - https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
