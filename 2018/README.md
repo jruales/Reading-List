@@ -302,6 +302,7 @@
 * ResearchGate: https://www.researchgate.net/
 * Seedbank: https://tools.google.com/seedbank/
 * Academic Torrents: http://academictorrents.com/
+* Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
 ### Computer Science Tools
 * Public Cloud Services Comparison - http://comparecloud.in/
