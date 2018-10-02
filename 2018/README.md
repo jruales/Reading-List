@@ -426,3 +426,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Notes to myself on software engineering by François Chollet - https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d
 * Should I do the thing? by Kit Kuksenok - https://ksen0.github.io/do-the-thing/
 * Some Possible Career Goals by Julia Evans - https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
+* 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
