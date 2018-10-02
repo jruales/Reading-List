@@ -427,3 +427,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Should I do the thing? by Kit Kuksenok - https://ksen0.github.io/do-the-thing/
 * Some Possible Career Goals by Julia Evans - https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
 * 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
+* Getting What You Came For: The Smart Student's Guide to Earning an M.A. or a Ph.D. by Robert Peters - https://www.amazon.com/Getting-What-You-Came-Students/dp/0374524777
