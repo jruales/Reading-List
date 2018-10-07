@@ -17,3 +17,4 @@
 - https://www.fluentu.com/ (haven't tried this one yet)
 - Listening to Disney song playlist in the foreign language
 - "Language learning: Your ultimate visual guide" https://ahtaitay.blogspot.com/2018/06/language-learning-your-ultimate-visual.html?m=1
+- Language Learning Blogs - https://blog.feedspot.com/language_learning_blogs/
