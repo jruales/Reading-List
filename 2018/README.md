@@ -379,6 +379,7 @@
 * University of Toronto - Ruslan Salakhutdinov - Large Scale Machine Learning - http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/
 * Carnegie Mellon - Graham Neubig - Machine Translation and
 Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedule.html
+* Microsoft Professional Program - https://academy.microsoft.com/en-us/professional-program/tracks/
 
 #### Graphics Courses
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
