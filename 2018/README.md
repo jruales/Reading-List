@@ -291,13 +291,14 @@
 * ArXiv Sanity Preserver: http://www.arxiv-sanity.com/
 * ArXiv Vanity: https://www.arxiv-vanity.com/ 
 * Google Dataset Search: https://toolbox.google.com/datasetsearch
+* GitXiv: http://gitxiv.com/
+* Papers with Code: https://paperswithcode.com/
+* PCA News: http://www.pca-news.com/
+* Model Zoo: https://modelzoo.co/
 * User-friendly NIPS paper search:
   * 2015: http://cs.stanford.edu/people/karpathy/nips2015/
   * 2014: http://cs.stanford.edu/people/karpathy/nips2014/
   * 2013: http://cs.stanford.edu/people/karpathy/nips2013/
-* GitXiv: http://gitxiv.com/
-* Papers with Code: https://paperswithcode.com/
-* Model Zoo: https://modelzoo.co/
 * Hugo Larochelle's Notes on Research Papers: https://twitter.com/hugo_larochelle/timelines/639067398511968256
 * Short Science: http://www.shortscience.org/
 * Fermat's Library: http://fermatslibrary.com/
