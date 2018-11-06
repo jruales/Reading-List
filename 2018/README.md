@@ -253,6 +253,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
 * Explained Visually - http://setosa.io/ev/
 * Build a Compact 4 Node Raspberry Pi Cluster - Make Magazine - https://makezine.com/projects/build-a-compact-4-node-raspberry-pi-cluster/
+* What nobody tells you about documentation - Divio Blog - https://www.divio.com/blog/documentation/
 
 ### Finance
 * Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
