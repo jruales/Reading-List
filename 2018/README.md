@@ -227,6 +227,8 @@
 * Step-by-step guides to getting started with Applied Machine Learning - https://machinelearningmastery.com/start-here/
 * Building a Recommender System in TensorFlow - Google Cloud documentation - https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview
 * Machine Learning: The High-Interest Credit Card of Technical Debt - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
+* TFX: A TensorFlow-Based Production-Scale Machine Learning
+Platform - http://stevenwhang.com/tfx_paper.pdf
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
