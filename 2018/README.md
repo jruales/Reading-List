@@ -226,6 +226,7 @@
 * Learning Reinforcement Learning (with Code, Exercises and Solutions) - by Denny Britz - [Blog post](http://www.wildml.com/2016/10/learning-reinforcement-learning/) | [GitHub Repo](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * Step-by-step guides to getting started with Applied Machine Learning - https://machinelearningmastery.com/start-here/
 * Building a Recommender System in TensorFlow - Google Cloud documentation - https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview
+* Machine Learning: The High-Interest Credit Card of Technical Debt - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
