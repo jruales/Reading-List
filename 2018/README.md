@@ -249,6 +249,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Programming Languages
 * Implement Your Own Automatic Differentiation with Julia in ONE day - http://blog.rogerluo.me/2018/10/23/write-an-ad-in-one-day/
 * What Is .NET Core? (What Makes It So Special?) by James Hickey - https://www.blog.jamesmichaelhickey.com/What-Makes-NET-Core-So-Special-Why-You-Should-Use-NET-Core/
+* 50 Fizzbuzzes by Vi Hart - http://vihart.com/fifty-fizzbuzzes/
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
@@ -317,6 +318,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 
 ### Computer Science Tools
 * Public Cloud Services Comparison - http://comparecloud.in/
+* Rosetta Code - https://rosettacode.org/wiki/Category:Programming_Tasks
 
 ### Machine Learning Tools
 * Metacademy - https://www.metacademy.org/
