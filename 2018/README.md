@@ -248,6 +248,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 
 ### Programming Languages
 * Implement Your Own Automatic Differentiation with Julia in ONE day - http://blog.rogerluo.me/2018/10/23/write-an-ad-in-one-day/
+* What Is .NET Core? (What Makes It So Special?) by James Hickey - https://www.blog.jamesmichaelhickey.com/What-Makes-NET-Core-So-Special-Why-You-Should-Use-NET-Core/
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
