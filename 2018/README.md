@@ -230,6 +230,7 @@
 * TFX: A TensorFlow-Based Production-Scale Machine Learning
 Platform - http://stevenwhang.com/tfx_paper.pdf
 * ML Resources - by Sam Finlayson - https://sgfin.github.io/learning-resources/
+* Google AI Blog - https://ai.googleblog.com/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
