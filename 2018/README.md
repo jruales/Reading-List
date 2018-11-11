@@ -391,6 +391,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Carnegie Mellon - Graham Neubig - Machine Translation and
 Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedule.html
 * Microsoft Professional Program - https://academy.microsoft.com/en-us/professional-program/tracks/
+* Google Machine Learning Crash Course - https://developers.google.com/machine-learning/crash-course/
 
 #### Graphics Courses
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
