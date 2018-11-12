@@ -446,3 +446,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
 * Getting What You Came For: The Smart Student's Guide to Earning an M.A. or a Ph.D. by Robert Peters - https://www.amazon.com/Getting-What-You-Came-Students/dp/0374524777
 * Career advice for recent Computer Science graduates by Chip Huyen - https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
+* Twenty things I wish I’d known when I started my PhD by Lucy Taylor - https://www.nature.com/articles/d41586-018-07332-x
