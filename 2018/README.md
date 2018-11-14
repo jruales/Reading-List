@@ -232,6 +232,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * ML Resources - by Sam Finlayson - https://sgfin.github.io/learning-resources/
 * Google AI Blog - https://ai.googleblog.com/
 * YOLO object detection with OpenCV - by Adrian Rosebrock - https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/?fbclid=IwAR1XMuExBJey6s6sSU5w96R71CwSStSmIZCW1DOlJbI6kN8P-Kdb5qWilVI
+* Stitch Fix Algorithms Tour - https://algorithms-tour.stitchfix.com/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
