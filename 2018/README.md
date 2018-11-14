@@ -326,6 +326,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Machine Learning Tools
 * Metacademy - https://www.metacademy.org/
 * OpenAI Gym - https://gym.openai.com/
+* TensorSpace.js - https://tensorspace.org/
 
 ### Design Tools
 * Picular (search engine for colors) - https://picular.co/
