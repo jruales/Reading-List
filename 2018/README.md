@@ -271,6 +271,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Mental Models - http://www.defmacro.org/2016/12/22/models.html
 * Webtoon Editing Tips: Techniques for Vertical Storytelling - https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24
 * The Holloway Guide to Equity Compensation - https://www.holloway.com/g/equity-compensation
+* How the World's Most Difficult Bouldering Problems Get Made - https://www.outsideonline.com/2017711/path-beta-flash-resistance-route-setters
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
