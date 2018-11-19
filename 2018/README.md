@@ -347,6 +347,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * NIPS 2016 Tutorial: Generative Adversarial Networks by Ian Goodfellow - https://arxiv.org/pdf/1701.00160v4.pdf
 * DeepMoji [Demo](https://deepmoji.mit.edu/), [Paper](https://arxiv.org/abs/1708.00524), [Blog post](https://medium.com/@bjarkefelbo/what-can-we-learn-from-emojis-6beb165a5ea0), [FAQ](https://www.media.mit.edu/projects/deepmoji/overview/)
 * FaceNet: A Unified Embedding for Face Recognition and Clustering - https://arxiv.org/abs/1503.03832
+* Night Sight: Seeing in the Dark on Pixel Phones - https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html
 
 ### Publications by Company
 * Adobe Research Publications - http://www.adobe.com/technology/publications.html
@@ -406,7 +407,6 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
   * Fall 2015: http://www.cs.cornell.edu/Courses/cs6630/2015fa/ 
   * Spring 2012: http://www.cs.cornell.edu/Courses/cs6630/2012sp/
 * MIT - Ramesh Raskar - Fall 2009 - MAS.531 / MAS.131 - Computational Camera and Photography - http://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/
-* Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
 * UPenn - CIS 700 - Special Topics in Procedural Graphics - https://cis700-procedural-graphics.github.io/
 
 #### Business Courses
@@ -414,6 +414,8 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 
 #### Misc. Courses
 * CMU - Advanced Cloud Computing - http://www.cs.cmu.edu/~15719/
+* Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
+* Google - Mark Levoy - Lectures on Digital Photography - https://www.youtube.com/watch?v=y7HrM-fk_Rc&list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i
 
 ### Taken Before (For Review)
 * Columbia University - Tony Jebara - Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4771/
