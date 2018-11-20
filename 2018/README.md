@@ -348,6 +348,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * DeepMoji [Demo](https://deepmoji.mit.edu/), [Paper](https://arxiv.org/abs/1708.00524), [Blog post](https://medium.com/@bjarkefelbo/what-can-we-learn-from-emojis-6beb165a5ea0), [FAQ](https://www.media.mit.edu/projects/deepmoji/overview/)
 * FaceNet: A Unified Embedding for Face Recognition and Clustering - https://arxiv.org/abs/1503.03832
 * Night Sight: Seeing in the Dark on Pixel Phones - https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html
+    * http://graphics.stanford.edu/talks/seeinthedark-public-15sep16.key.pdf
 * BERT: State-of-the-Art Pre-training for Natural Language Processing - https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html
 
 ### Publications by Company
