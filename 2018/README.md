@@ -233,6 +233,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Google AI Blog - https://ai.googleblog.com/
 * YOLO object detection with OpenCV - by Adrian Rosebrock - https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/?fbclid=IwAR1XMuExBJey6s6sSU5w96R71CwSStSmIZCW1DOlJbI6kN8P-Kdb5qWilVI
 * Stitch Fix Algorithms Tour - https://algorithms-tour.stitchfix.com/
+* Sneaky Topology - by 3Blue1Brown - https://www.youtube.com/watch?v=yuVqxCSsE7c&fbclid=IwAR2rgs3fja2xCIcdE9gxIV-0hA78KxVpfHJYWDCJFdoE5KQswPz0J1uCN0g
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
