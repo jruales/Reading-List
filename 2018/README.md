@@ -235,6 +235,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Stitch Fix Algorithms Tour - https://algorithms-tour.stitchfix.com/
 * Sneaky Topology - by 3Blue1Brown - https://www.youtube.com/watch?v=yuVqxCSsE7c&fbclid=IwAR2rgs3fja2xCIcdE9gxIV-0hA78KxVpfHJYWDCJFdoE5KQswPz0J1uCN0g
 * Dissecting BERT - https://medium.com/dissecting-bert
+* Nine things I wish I had known the first time I came to NIPS - https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
