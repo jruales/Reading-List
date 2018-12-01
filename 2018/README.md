@@ -257,6 +257,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Programming Languages
 * Implement Your Own Automatic Differentiation with Julia in ONE day - http://blog.rogerluo.me/2018/10/23/write-an-ad-in-one-day/
 * Meeting Julia, a great new alternative for numerical programming - https://medium.com/@nwerneck/meeting-julia-a-great-new-alternative-for-numerical-programming-part-i-benchmarking-c03dd3289493
+* A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas - http://ucidatascienceinitiative.github.io/IntroToJulia/
 * What Is .NET Core? (What Makes It So Special?) by James Hickey - https://www.blog.jamesmichaelhickey.com/What-Makes-NET-Core-So-Special-Why-You-Should-Use-NET-Core/
 * 50 Fizzbuzzes by Vi Hart - http://vihart.com/fifty-fizzbuzzes/
 
