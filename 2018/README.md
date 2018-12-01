@@ -462,3 +462,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Career advice for recent Computer Science graduates by Chip Huyen - https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * Twenty things I wish I’d known when I started my PhD by Lucy Taylor - https://www.nature.com/articles/d41586-018-07332-x
 * How To Get Hired -- What CS Students Need to Know. By Dan Kegel - http://www.kegel.com/academy/getting-hired.html
+* FAQ: Preparing for a Job in Data Science, By Chris Wiggins - https://gist.github.com/chrishwiggins/030a3b8b0c8e6861d450
