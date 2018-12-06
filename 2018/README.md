@@ -81,6 +81,9 @@
 * Getting Things Done {Recommended by B.S. in 2018}
 * Take Back Your Life!: Using Outlook to Get Organized and Stay Organized {Recommended by B.S. in 2018}
 * The Organized Mind {Recommended by D.V. in 2018}
+* The 4-Hour Chef by Tim Ferriss {Recommended by C.E. in late 2018}
+* Mastery by Robert Greene {Recommended by C.E. in late 2018}
+* The Art of Learning by Josh Waitzkin {Recommended by C.E. in late 2018}
 
 ### Biographical/Historical
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
