@@ -19,3 +19,10 @@
 - "Language learning: Your ultimate visual guide" https://ahtaitay.blogspot.com/2018/06/language-learning-your-ultimate-visual.html?m=1
 - Language Learning Blogs - https://blog.feedspot.com/language_learning_blogs/
 - Korean conjugator - https://hangulsoup.com/tools/conjugator.php
+- Vocabulary books that have words in the target language with the corresponding word in English, as well as a sample sentence with the English translation, and where words are grouped by category (like Langenscheidt's "Grundwortschatz Deutsch als Fremdsprache", or Tuttle's "Essential Korean Vocabulary")
+    - Try to get Google Translate to understand you when you pronounce the words and sample sentences in the target language
+    - Try to read the sentences out loud as quickly as possible while still being understood by the Google Translate speech-to-text
+    - Be able to recognize what each *vocab word* in the target language means in English
+    - Be able to produce the *vocab word* in the target language just based on the English translation in the book
+    - Be able to recognize what each of the *sample sentences* in the target language means in English
+    - Be able to produce the *sample sentences* in the target language just based on the English sample sentence
