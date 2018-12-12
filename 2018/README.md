@@ -314,7 +314,8 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * ArXiv Vanity: https://www.arxiv-vanity.com/ 
 * Google Dataset Search: https://toolbox.google.com/datasetsearch
 * GitXiv: http://gitxiv.com/
-* Papers with Code: https://paperswithcode.com/
+* Papers with Code (website): https://paperswithcode.com/
+* Papers with Code (GitHub version): https://github.com/zziz/pwc
 * PCA News: http://www.pca-news.com/
 * Model Zoo: https://modelzoo.co/
 * User-friendly NIPS paper search:
