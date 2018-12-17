@@ -26,3 +26,4 @@
     - Be able to produce the *vocab word* in the target language just based on the English translation in the book
     - Be able to recognize what each of the *sample sentences* in the target language means in English
     - Be able to produce the *sample sentences* in the target language just based on the English sample sentence
+- https://www.clozemaster.com/
