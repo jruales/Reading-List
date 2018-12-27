@@ -109,6 +109,7 @@
 * Neural Networks and Deep Learning by Michael Nielsen - http://neuralnetworksanddeeplearning.com/
 * Speech and Language Processing by Dan Jurafsky and James H. Martin - https://web.stanford.edu/~jurafsky/slp3/
 * Interactive Linear Algebra - http://immersivemath.com/ila/#
+* Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax by Emily M. Bender
 * {Some book on OpenCV in Python}
 * {Some book on AWS}
 * {Some book on Hadoop, Hive, Spark, and such}
