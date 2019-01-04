@@ -23,6 +23,7 @@
     - [UI/UX](#uiux)
     - [Misc. Computer Science](#misc-computer-science)
     - [Finance](#finance)
+    - [Diversity](#diversity)
     - [Misc.](#misc)
   - [Music](#music)
   - [Datasets](#datasets)
@@ -278,12 +279,15 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Black-Scholes Formula (d1, d2, Call Price, Put Price, Greeks) - http://www.macroption.com/black-scholes-formula/
 * How I made $500k with machine learning and HFT (high frequency trading) - http://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft
 
+### Diversity
+* How To Write Better Job Descriptions - by Ana Ulin - https://anaulin.org/blog/how-to-write-better-job-descriptions/
+* Thinking you do you and I do me - by Layla El Asri - https://speakingmachines.com/blog/2018/12/29/nbspthinking-you-do-you-and-i-do-menbsp
+
 ### Misc.
 * Mental Models - http://www.defmacro.org/2016/12/22/models.html
 * Webtoon Editing Tips: Techniques for Vertical Storytelling - https://www.webtoons.com/en/tiptoon/lozolz/webtoon-editing-tips/viewer?title_no=1268&episode_no=24
 * The Holloway Guide to Equity Compensation - https://www.holloway.com/g/equity-compensation
 * How the World's Most Difficult Bouldering Problems Get Made - https://www.outsideonline.com/2017711/path-beta-flash-resistance-route-setters
-* How To Write Better Job Descriptions - https://anaulin.org/blog/how-to-write-better-job-descriptions/
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
