@@ -241,6 +241,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Dissecting BERT - https://medium.com/dissecting-bert
 * Nine things I wish I had known the first time I came to NIPS - https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed
 * The intertwined quest for understanding biological intelligence and creating artificial intelligence by Surya Ganguli - https://hai.stanford.edu/news/the_intertwined_quest_for_understanding_biological_intelligence_and_creating_artificial_intelligence/
+* Tensor Considered Harmful by Alexander Rush - http://nlp.seas.harvard.edu/NamedTensor?fbclid=IwAR2FusFxf-c24whTSiF8B3R2EKz_-zRfF32jpU8D-F5G7rreEn9JiCfMl48
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
