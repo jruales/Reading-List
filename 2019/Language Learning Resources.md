@@ -1,0 +1,29 @@
+- learning the IPA alphabet using mostly wikipedia, YouTube, and some apps (AV Phonetics is pretty good)
+- forvo.com to look up pronunciations
+- wiktionary to look up phonetic transcriptions
+- the wikipedia page "French phonology" or "{language name} phonology"
+- the free version of the lingQ app with all features and gamification turned off, just to have text with audio transcriptions
+- Booklet "Exercises in French Phonics", which explains French phonetics and uses IPA notation
+- podcasts
+- Switching your phone's default language to the foreign language
+- Playing video games in the foreign language
+- movies/shows in the foreign language with English subtitles
+- learning the lyrics to a song you like in that language
+- Italian conjugation quiz http://conjugate.in/
+- https://www.speechace.com/
+- https://ai.glossika.com/
+- Playing Stardew Valley in a foreign language and looking up sentences in Google Translate using speech-to-text
+- While doing everyday activities or taking a walk, try to name the objects around you or describe your surroundings in the foreign language you're learning. If you remember how to say it, you can use the speech-to-text feature of Google Translate to make sure you're pronouncing it correctly and that it means what you think it means. If you don't remember, you can still use Google Translate to speak it in English and see that it is in the target language.
+- https://www.fluentu.com/ (haven't tried this one yet)
+- Listening to Disney song playlist in the foreign language
+- "Language learning: Your ultimate visual guide" https://ahtaitay.blogspot.com/2018/06/language-learning-your-ultimate-visual.html?m=1
+- Language Learning Blogs - https://blog.feedspot.com/language_learning_blogs/
+- Korean conjugator - https://hangulsoup.com/tools/conjugator.php
+- Vocabulary books that have words in the target language with the corresponding word in English, as well as a sample sentence with the English translation, and where words are grouped by category (like Langenscheidt's "Grundwortschatz Deutsch als Fremdsprache", or Tuttle's "Essential Korean Vocabulary")
+    - Try to get Google Translate to understand you when you pronounce the words and sample sentences in the target language
+    - Try to read the sentences out loud as quickly as possible while still being understood by the Google Translate speech-to-text
+    - Be able to recognize what each *vocab word* in the target language means in English
+    - Be able to produce the *vocab word* in the target language just based on the English translation in the book
+    - Be able to recognize what each of the *sample sentences* in the target language means in English
+    - Be able to produce the *sample sentences* in the target language just based on the English sample sentence
+- https://www.clozemaster.com/
