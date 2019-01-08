@@ -405,6 +405,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Stanford University - Richard Socher - Deep Learning for NLP CS224d - http://cs224d.stanford.edu/
 * Stanford University - Andrej Karpathy - Convolutional Neural Networks for Computer Vision CS231n - http://cs231n.stanford.edu/
 * University College London - David Silver (One of the DeepMind guys who worked on the AlphaGo AI) - Advanced Topics: Reinforcement Learning - http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+* University College London - Sebastian Rieder - COMP0087 Statistical Natural Language Processing - http://www.cs.ucl.ac.uk/1819/A7P/T2/COMP0087_Statistical_Natural_Language_Processing/
 * University of California, Berkeley - CS188: Intro to AI, Spring 2017 - Sergey Levine - http://ai.berkeley.edu/home.html
 * University of California, Berkeley - stat212b Spring 2016 - Topics Course on Deep Learning - Joan Bruna - https://github.com/joanbruna/stat212b
 * University of California, Berkeley - CS 294: Deep Reinforcement Learning, Spring 2014 - Pieter Abbeel - http://ai.berkeley.edu/course_schedule.html
