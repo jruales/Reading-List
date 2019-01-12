@@ -452,6 +452,10 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * How To Get Hired -- What CS Students Need to Know. By Dan Kegel - http://www.kegel.com/academy/getting-hired.html
 * FAQ: Preparing for a Job in Data Science, By Chris Wiggins - https://gist.github.com/chrishwiggins/030a3b8b0c8e6861d450
 * The Guerilla Guide to Interviewing, by Joel Spolsky - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
+* Writing a Google AI Residency Cover Letter by Katherine Lee and Ben Eysenbach - https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html
+* Statement of Purpose Examples from Ph.D. Program Applications by Philip Guo - http://www.pgbovine.net/PhD-application-essay-examples.htm
+* Machine Learning PhD Applications — Everything You Need to Know - by Tim Dettmers - http://timdettmers.com/2018/11/26/phd-applications/
+* ML Statement of Purpose examples (Google search) - https://www.google.com/search?q=machine+learning+phd+statement+of+purpose+filetype%3Apdf
 
 ### Academic
 * Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
