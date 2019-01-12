@@ -443,35 +443,44 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 
 
 ## Advice
+### Application Process
 * How to compose an NSF GRFP application packet you can be proud of - by Katie Kuksenok - https://medium.com/ok-work/how-to-compose-an-nsf-grfp-application-packet-you-can-be-proud-of-b5f848dee19
-* Tool Spotlight: Apps for Writing - by Katie Kuksenok - https://medium.com/ok-work/apps-i-m-using-for-writing-a-lot-7945ee8737fd
 * Some tips for your Google Summer of Code Application - by Chris Rackauckas - http://www.stochasticlifestyle.com/tips-google-summer-code-application/
-* Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
 * A Survival Guide to a PhD - by Andrej Karpathy - http://karpathy.github.io/2016/09/07/phd/
+* Resume for Machine Learning by Siraj Raval - https://www.youtube.com/watch?v=nMK94JlKRb4
+* Getting What You Came For: The Smart Student's Guide to Earning an M.A. or a Ph.D. by Robert Peters - https://www.amazon.com/Getting-What-You-Came-Students/dp/0374524777
+* How To Get Hired -- What CS Students Need to Know. By Dan Kegel - http://www.kegel.com/academy/getting-hired.html
+* FAQ: Preparing for a Job in Data Science, By Chris Wiggins - https://gist.github.com/chrishwiggins/030a3b8b0c8e6861d450
+* The Guerilla Guide to Interviewing, by Joel Spolsky - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
+
+### Academic
+* Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
+* A survivor’s guide to Artificial Intelligence courses at Stanford by Chip Huyen - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
+* Twenty things I wish I’d known when I started my PhD by Lucy Taylor - https://www.nature.com/articles/d41586-018-07332-x
+
+### Research
+* Heuristics for Scientific Writing (a Machine Learning Perspective) - by Zachary C. Lipton - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
+* How to Get Your SIGGRAPH Paper Rejected, by Jim Kajiya - https://www.siggraph.org/sites/default/files/kajiya.pdf
+
+### Productivity
 * Teach Yourself Programming in Ten Years - by Peter Norvig - http://norvig.com/21-days.html
+* Tool Spotlight: Apps for Writing - by Katie Kuksenok - https://medium.com/ok-work/apps-i-m-using-for-writing-a-lot-7945ee8737fd
 * Getting things done - by Julia Evans - https://jvns.ca/blog/2016/09/19/getting-things-done/
 * So you want to be a wizard - by Julia Evans - https://jvns.ca/blog/so-you-want-to-be-a-wizard/ - https://jvns.ca/zines/
-* Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
-* Rules of Machine Learning: Best Practices for ML Engineering - by Martin Zinkevich - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-* Heuristics for Scientific Writing (a Machine Learning Perspective) - by Zachary C. Lipton - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
 * STAR (situation, task, action, result) - [Wiki link](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
 * SMART (Specific, Measurable, Achievable, Results-Based, Time-bound) - https://en.wikipedia.org/wiki/SMART_criteria
 * On Avoiding Stress Culture - by Jean Yang - http://jxyzabc.blogspot.com/2016/09/on-avoiding-stress-culture.html
 * The Genius Fallacy - by Jean Yang - http://jxyzabc.blogspot.com/2017/09/the-genius-fallacy.html
-* A survivor’s guide to Artificial Intelligence courses at Stanford by Chip Huyen - https://huyenchip.com/2018/03/30/guide-to-Artificial-Intelligence-Stanford.html
 * The Feynman Technique: The Best Way to Learn Anything (article by Farnam Street) - https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
 * Calendar. Not to-do lists. by Devi Parikh - https://medium.com/@deviparikh/calendar-in-stead-of-to-do-lists-9ada86a512dd
-* Resume for Machine Learning by Siraj Raval - https://www.youtube.com/watch?v=nMK94JlKRb4
+* 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
+
+### Misc.
+* Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
+* Rules of Machine Learning: Best Practices for ML Engineering - by Martin Zinkevich - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+* Should I do the thing? by Kit Kuksenok - https://ksen0.github.io/do-the-thing/
 * Meetup Cookbook - https://tigrennatenn.neocities.org/meetup_cookbook.html
 * Lessons from my first year of live coding on Twitch by Suz Hinton - https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
-* How to Get Your SIGGRAPH Paper Rejected, by Jim Kajiya - https://www.siggraph.org/sites/default/files/kajiya.pdf
 * Notes to myself on software engineering by François Chollet - https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d
-* Should I do the thing? by Kit Kuksenok - https://ksen0.github.io/do-the-thing/
 * Some Possible Career Goals by Julia Evans - https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
-* 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
-* Getting What You Came For: The Smart Student's Guide to Earning an M.A. or a Ph.D. by Robert Peters - https://www.amazon.com/Getting-What-You-Came-Students/dp/0374524777
 * Career advice for recent Computer Science graduates by Chip Huyen - https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
-* Twenty things I wish I’d known when I started my PhD by Lucy Taylor - https://www.nature.com/articles/d41586-018-07332-x
-* How To Get Hired -- What CS Students Need to Know. By Dan Kegel - http://www.kegel.com/academy/getting-hired.html
-* FAQ: Preparing for a Job in Data Science, By Chris Wiggins - https://gist.github.com/chrishwiggins/030a3b8b0c8e6861d450
-* The Guerilla Guide to Interviewing, by Joel Spolsky - https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/
