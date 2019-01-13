@@ -465,6 +465,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 ### Research
 * Heuristics for Scientific Writing (a Machine Learning Perspective) - by Zachary C. Lipton - http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
 * How to Get Your SIGGRAPH Paper Rejected, by Jim Kajiya - https://www.siggraph.org/sites/default/files/kajiya.pdf
+* You and Your Research - by Richard Hamming - [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&t=1s) | [Transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 ### Productivity
 * Teach Yourself Programming in Ten Years - by Peter Norvig - http://norvig.com/21-days.html
