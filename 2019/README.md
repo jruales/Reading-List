@@ -345,6 +345,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Metacademy - https://www.metacademy.org/
 * OpenAI Gym - https://gym.openai.com/
 * TensorSpace.js - https://tensorspace.org/
+* Convolution Visualizer - https://ezyang.github.io/convolution-visualizer/index.html
 
 ### Design Tools
 * Picular (search engine for colors) - https://picular.co/
