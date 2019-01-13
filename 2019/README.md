@@ -349,6 +349,9 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Design Tools
 * Picular (search engine for colors) - https://picular.co/
 
+### Writing Tools
+* LanguageTool - https://languagetool.org/
+* Scribens - https://www.scribens.com/
 
 
 ## Research Papers
