@@ -354,6 +354,8 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * LanguageTool - https://languagetool.org/
 * Scribens - https://www.scribens.com/
 
+### Misc.
+* Two factor auth list - https://twofactorauth.org/
 
 ## Research Papers
 
