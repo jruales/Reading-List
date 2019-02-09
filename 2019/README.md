@@ -276,6 +276,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
 * Black-Scholes Formula (d1, d2, Call Price, Put Price, Greeks) - http://www.macroption.com/black-scholes-formula/
 * How I made $500k with machine learning and HFT (high frequency trading) - http://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft
+* The Ultimate Guide to Bonds - US News - https://money.usnews.com/investing/investing-101/articles/the-ultimate-guide-to-bonds
 
 ### Diversity
 * How To Write Better Job Descriptions - by Ana Ulin - https://anaulin.org/blog/how-to-write-better-job-descriptions/
