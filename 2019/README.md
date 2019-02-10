@@ -288,6 +288,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * The Holloway Guide to Equity Compensation - https://www.holloway.com/g/equity-compensation
 * How the World's Most Difficult Bouldering Problems Get Made - https://www.outsideonline.com/2017711/path-beta-flash-resistance-route-setters
 * Laws of Tech: Commoditize Your Complement - by Gwern Branwen - https://www.gwern.net/Complement#2
+* Quantum Randomness by Scott Aaronson on Scientific American - https://www.americanscientist.org/article/quantum-randomness
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
