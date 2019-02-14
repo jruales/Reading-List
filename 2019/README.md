@@ -243,6 +243,11 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * The intertwined quest for understanding biological intelligence and creating artificial intelligence by Surya Ganguli - https://hai.stanford.edu/news/the_intertwined_quest_for_understanding_biological_intelligence_and_creating_artificial_intelligence/
 * Tensor Considered Harmful by Alexander Rush - http://nlp.seas.harvard.edu/NamedTensor?fbclid=IwAR2FusFxf-c24whTSiF8B3R2EKz_-zRfF32jpU8D-F5G7rreEn9JiCfMl48
 * Deep Learning Drizzle (GitHub repo with links to lectures etc.) - https://github.com/kmario23/deep-learning-drizzle?fbclid=IwAR2IT8oL8LyLj3NfQBYR2eQ1I6oSlAmr_--DWX0hiMwj2A_RoYozFqfkclA
+* Causal inference series by Ferenc Huszár
+  * ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus - https://www.inference.vc/untitled/
+  * Causal Inference 2: Illustrating Interventions via a Toy Example - https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/
+  * Causal Inference 3: Counterfactuals - https://www.inference.vc/causal-inference-3-counterfactuals/
+  * Causal Inference 4: Causal Diagrams, Markov Factorization, Structural Equation Models - Coming Soon
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
