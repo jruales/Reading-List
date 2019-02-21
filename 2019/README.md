@@ -359,6 +359,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Design Tools
 * Picular (search engine for colors) - https://picular.co/
 * Can't Unsee - https://cantunsee.space/
+* Humaaans - https://www.humaaans.com/
 
 ### Writing Tools
 * LanguageTool - https://languagetool.org/
