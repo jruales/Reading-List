@@ -248,6 +248,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
   * Causal Inference 2: Illustrating Interventions via a Toy Example - https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/
   * Causal Inference 3: Counterfactuals - https://www.inference.vc/causal-inference-3-counterfactuals/
   * Causal Inference 4: Causal Diagrams, Markov Factorization, Structural Equation Models - Coming Soon
+* Best Deep Learning Books 2019 - https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
