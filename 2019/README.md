@@ -351,7 +351,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Rosetta Code - https://rosettacode.org/wiki/Category:Programming_Tasks
 
 ### Math Tools
-* Math Tools - http://www.matrixcalculus.org/
+* Matrix Calculus - http://www.matrixcalculus.org/
 
 ### Machine Learning Tools
 * Metacademy - https://www.metacademy.org/
