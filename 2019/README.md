@@ -273,6 +273,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * A Deep Introduction to Julia for Data Science and Scientific Computing by Chris Rackauckas - http://ucidatascienceinitiative.github.io/IntroToJulia/
 * What Is .NET Core? (What Makes It So Special?) by James Hickey - https://www.blog.jamesmichaelhickey.com/What-Makes-NET-Core-So-Special-Why-You-Should-Use-NET-Core/
 * 50 Fizzbuzzes by Vi Hart - http://vihart.com/fifty-fizzbuzzes/
+* A Guide to Python's Magic Methods by Rafe Kettler - https://rszalski.github.io/magicmethods/
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
