@@ -188,6 +188,7 @@
 * inFERENce blog by Ferenc Huszár - http://www.inference.vc/
 * "How to Trick a Neural Network" and the dangers of black-box models by Julia Evans - http://jvns.ca/blog/2016/05/21/a-few-notes-from-my-pydata-berlin-keynote/?utm_content=bufferfc75f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * Blog Series - Andrej Karpathy - http://karpathy.github.io/
+  * Apr 25, 2019 - A Recipe for Training Neural Networks - https://karpathy.github.io/2019/04/25/recipe/
   * Oct 25, 2015 - What a Deep Neural Network thinks about your #selfie - http://karpathy.github.io/2015/10/25/selfie/
   * May 21, 2015 - The Unreasonable Effectiveness of Recurrent Neural Networks - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
   * Mar 30, 2015 - Breaking Linear Classifiers on ImageNet - http://karpathy.github.io/2015/03/30/breaking-convnets/
