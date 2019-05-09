@@ -275,7 +275,8 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * What Is .NET Core? (What Makes It So Special?) by James Hickey - https://www.blog.jamesmichaelhickey.com/What-Makes-NET-Core-So-Special-Why-You-Should-Use-NET-Core/
 * 50 Fizzbuzzes by Vi Hart - http://vihart.com/fifty-fizzbuzzes/
 * A Guide to Python's Magic Methods by Rafe Kettler - https://rszalski.github.io/magicmethods/
-* The Fast Track to Julia (Julia Cheat Sheet) https://juliadocs.github.io/Julia-Cheat-Sheet/
+* The Fast Track to Julia (Julia Cheat Sheet) - https://juliadocs.github.io/Julia-Cheat-Sheet/
+* Python internals: Arbitrary-precision integer implementation - https://rushter.com/blog/python-integer-implementation/
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
