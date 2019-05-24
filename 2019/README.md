@@ -421,6 +421,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Stanford University - Matthew Hoffman - Statistics 300: Advanced topics in Statistics: Bayesian nonparametrics - Summer 2013 - http://www.cs.princeton.edu/~mdhoffma/stat300/index.html
 * University of Notre Dame - Nicholas Zabaras - Statistical Computing for Scientists and Engineers, Fall 2017  - https://www.zabaras.com/statisticalcomputing
 * MIT 18.06 Linear Algebra - Prof. Gilbert Strang - https://www.youtube.com/watch?v=ZK3O402wf1c
+* MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/
 
 #### ML/Robotics Courses
 * Columbia University - Peter Belhumeur - Biometrics - http://www1.cs.columbia.edu/~belhumeur/courses/biometrics/2013/biometrics.html
