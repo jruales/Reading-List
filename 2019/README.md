@@ -137,6 +137,7 @@
 * Dive Into Python by Mark Pilgrim - http://www.diveintopython.net/toc/index.html {Personally recommended by A.N. in early 2016}
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
 * The Swift Programming Language {Heard about the book in a Columbia hackathon}
+* The Python Language Reference (official free reference) - https://docs.python.org/3/reference/index.html
 
 ### Algorithms and Data Structures
 * Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
