@@ -357,6 +357,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Computer Science Tools
 * Public Cloud Services Comparison - http://comparecloud.in/
 * Rosetta Code - https://rosettacode.org/wiki/Category:Programming_Tasks
+* Online Python Tutor - http://pythontutor.com/
 
 ### Math Tools
 * Matrix Calculus - http://www.matrixcalculus.org/
