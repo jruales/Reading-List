@@ -285,6 +285,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Build a Compact 4 Node Raspberry Pi Cluster - Make Magazine - https://makezine.com/projects/build-a-compact-4-node-raspberry-pi-cluster/
 * What nobody tells you about documentation - Divio Blog - https://www.divio.com/blog/documentation/
 * StackOverflow Developer Survey Results 2019 - https://insights.stackoverflow.com/survey/2019
+* Pragmatic Unicode - https://nedbatchelder.com/text/unipain.html
 
 ### Finance
 * Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
