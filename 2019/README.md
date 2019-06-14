@@ -522,3 +522,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Notes to myself on software engineering by François Chollet - https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d
 * Some Possible Career Goals by Julia Evans - https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
 * Career advice for recent Computer Science graduates by Chip Huyen - https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
+* 7 absolute truths I unlearned as junior developer - https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
