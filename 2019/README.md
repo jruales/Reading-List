@@ -138,6 +138,7 @@
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
 * The Swift Programming Language {Heard about the book in a Columbia hackathon}
 * The Python Language Reference (official free reference) - https://docs.python.org/3/reference/index.html
+* Ruby Programming book on WikiBooks - https://en.wikibooks.org/wiki/Ruby_Programming
 
 ### Algorithms and Data Structures
 * Elements of Programming Interviews by Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash
