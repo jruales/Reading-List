@@ -279,6 +279,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * A Guide to Python's Magic Methods by Rafe Kettler - https://rszalski.github.io/magicmethods/
 * The Fast Track to Julia (Julia Cheat Sheet) - https://juliadocs.github.io/Julia-Cheat-Sheet/
 * Python internals: Arbitrary-precision integer implementation - https://rushter.com/blog/python-integer-implementation/
+* Julia: come for the syntax, stay for the speed - https://www.nature.com/articles/d41586-019-02310-3
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
