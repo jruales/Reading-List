@@ -280,6 +280,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * The Fast Track to Julia (Julia Cheat Sheet) - https://juliadocs.github.io/Julia-Cheat-Sheet/
 * Python internals: Arbitrary-precision integer implementation - https://rushter.com/blog/python-integer-implementation/
 * Julia: come for the syntax, stay for the speed - https://www.nature.com/articles/d41586-019-02310-3
+* Python is eating the world: How one developer's side project became the hottest programming language on the planet - https://www.zdnet.com/article/python-is-eating-the-world-how-one-developers-side-project-became-the-hottest-programming-language-on-the-planet/
 
 ### Misc. Computer Science
 * Pablo Estrada - Bit y Byte - http://bitybyte.github.io/ {in Spanish}
