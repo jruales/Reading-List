@@ -289,6 +289,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * What nobody tells you about documentation - Divio Blog - https://www.divio.com/blog/documentation/
 * StackOverflow Developer Survey Results 2019 - https://insights.stackoverflow.com/survey/2019
 * Pragmatic Unicode - https://nedbatchelder.com/text/unipain.html
+* Understanding the Git Workflow - Benjamin Sandofsky - https://sandofsky.com/blog/git-workflow.html
 
 ### Finance
 * Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
