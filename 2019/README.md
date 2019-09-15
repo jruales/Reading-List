@@ -71,6 +71,7 @@
 
 ### Non-Fiction -- Instructive
 * [100% done on 2019-09-14] Work Rules! by Laszlo Bock
+* [37% done] Lean Customer Development by Cindy Alvarez
 * [60% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
@@ -134,6 +135,7 @@
 * Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma {Personally recommended by D.R.}
 
 ### Programming Languages
+* [27% done] Fluent Python by Luciano Ramalho
 * The C Programming Language by Brian Kernighan and Dennis Ritchie
 * Dive Into Python by Mark Pilgrim - http://www.diveintopython.net/toc/index.html {Personally recommended by A.N. in early 2016}
 * Pro JavaScript Techniques by Russ Ferguson, John Paxton, and John Resig
