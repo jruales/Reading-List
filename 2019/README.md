@@ -70,6 +70,7 @@
 * The Three-Body Problem by Cixin Liu {Personally recommended by S.S. in late 2017}
 
 ### Non-Fiction -- Instructive
+* [100% done on 2019-09-14] Work Rules! by Laszlo Bock
 * [60% done] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
 * [35% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
