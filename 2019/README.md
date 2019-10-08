@@ -294,6 +294,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Pragmatic Unicode - https://nedbatchelder.com/text/unipain.html
 * Understanding the Git Workflow - Benjamin Sandofsky - https://sandofsky.com/blog/git-workflow.html
 * How to do a code review - Google's Engineering Practices documentation - https://google.github.io/eng-practices/review/reviewer/
+* Using Linux Namespaces to Isolate Processes - by Nigel Brown - https://windsock.io/using-linux-namespaces-to-isolate-processes/ {Personally recommended by R.A. in 2019}
 
 ### Finance
 * Quantitative Trading Summary - https://blog.headlandstech.com/2017/08/03/quantitative-trading-summary/
