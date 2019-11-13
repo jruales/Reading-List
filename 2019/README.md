@@ -459,6 +459,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedule.html
 * Microsoft Professional Program - https://academy.microsoft.com/en-us/professional-program/tracks/
 * Google Machine Learning Crash Course - https://developers.google.com/machine-learning/crash-course/
+* CS 20: Tensorflow for Deep Learning Research - taught by Chip Huyen - http://web.stanford.edu/class/cs20si/
 
 #### Graphics Courses
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
