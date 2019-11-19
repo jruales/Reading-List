@@ -86,6 +86,7 @@
 * The 4-Hour Chef by Tim Ferriss {Recommended by C.E. in late 2018}
 * Mastery by Robert Greene {Recommended by C.E. in late 2018}
 * The Art of Learning by Josh Waitzkin {Recommended by C.E. in late 2018}
+* High Output Management by Andrew Grove {Recommended by K.B. in late 2019}
 
 ### Biographical/Historical
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
