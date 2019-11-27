@@ -263,6 +263,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * OpenCV-Python Cheat Sheet: From Importing Images to Face Detection - https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433
 * Hugging Face: State-of-the-Art Natural Language Processing in ten lines of TensorFlow 2.0 - https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a
 * Machine Learning Interviews: Lessons from Both Sides - FSDL - by Chip Huyen - https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit#slide=id.g307a3e0e45_0_77
+* How to apply machine learning and deep learning methods to audio analysis - https://www.comet.ml/blog/?p=916
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
