@@ -509,6 +509,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Statement of Purpose Examples from Ph.D. Program Applications by Philip Guo - http://www.pgbovine.net/PhD-application-essay-examples.htm
 * Machine Learning PhD Applications — Everything You Need to Know - by Tim Dettmers - http://timdettmers.com/2018/11/26/phd-applications/
 * ML Statement of Purpose examples (Google search) - https://www.google.com/search?q=machine+learning+phd+statement+of+purpose+filetype%3Apdf
+* Four lessons I learned after my first full-time job after college - by Chip Nguyen - https://huyenchip.com/2019/12/23/leaving-nvidia-lessons.html
 
 ### Academic
 * Doing well in your courses - by Andrej Karpathy - https://cs.stanford.edu/people/karpathy/advice.html
