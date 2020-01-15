@@ -465,6 +465,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Microsoft Professional Program - https://academy.microsoft.com/en-us/professional-program/tracks/
 * Google Machine Learning Crash Course - https://developers.google.com/machine-learning/crash-course/
 * CS 20: Tensorflow for Deep Learning Research - taught by Chip Huyen - http://web.stanford.edu/class/cs20si/
+* Columbia University - Julia Hirschberg and Sarah Ita Levitan - COMS 6998: Advanced Topics in Spoken Language Processing - http://www.cs.columbia.edu/~julia/courses/CS6998-2019/syllabus19.html
 
 #### Graphics Courses
 * Columbia University - Peter Belhumeur - Computational Photography Spring 2010 - http://www1.cs.columbia.edu/~belhumeur/courses/compPhoto/compPhoto.html
