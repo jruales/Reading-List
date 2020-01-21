@@ -371,6 +371,8 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Seedbank: https://tools.google.com/seedbank/
 * Academic Torrents: http://academictorrents.com/
 * Deep Learning Papers Reading Roadmap: https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+* SwiftLaTeX: https://www.swiftlatex.com/
+* Lyx: https://www.lyx.org/
 
 ### Computer Science Tools
 * Public Cloud Services Comparison - http://comparecloud.in/
