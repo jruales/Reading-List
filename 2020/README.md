@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Reading List 2019](#reading-list-2019)
+- [Reading List 2020](#reading-list-2020)
   - [Books](#books)
     - [Fiction](#fiction)
     - [Non-Fiction -- Instructive](#non-fiction----instructive)
@@ -53,7 +53,7 @@
 
 
 
-# Reading List 2018
+# Reading List 2020
 
 
 
@@ -87,6 +87,7 @@
 * High Output Management by Andrew Grove {Recommended by K.B. in late 2019}
 * The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford {Recommended by K.B. in late 2019}
 * The Pragmatic Programmer by David Thomas and Andrew Hunt {Recommended by K.B. in late 2019}
+* Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger {Recommended by D.G.? in 2019}
 
 ### Biographical/Historical
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
@@ -260,7 +261,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * OpenCV-Python Cheat Sheet: From Importing Images to Face Detection - https://heartbeat.fritz.ai/opencv-python-cheat-sheet-from-importing-images-to-face-detection-52919da36433
 * Hugging Face: State-of-the-Art Natural Language Processing in ten lines of TensorFlow 2.0 - https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a
 * Machine Learning Interviews: Lessons from Both Sides - FSDL - by Chip Huyen - https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit#slide=id.g307a3e0e45_0_77
-* How to apply machine learning and deep learning methods to audio analysis - https://www.comet.ml/blog/?p=916
+* How to apply machine learning and deep learning methods to audio analysis - by Nikolas Laskaris - https://www.comet.ml/blog/?p=916
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
@@ -521,6 +522,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * How to Get Your SIGGRAPH Paper Rejected, by Jim Kajiya - https://www.siggraph.org/sites/default/files/kajiya.pdf
 * You and Your Research - by Richard Hamming - [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&t=1s) | [Transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * Principles of Effective Research - by Michael Nielsen - http://michaelnielsen.org/blog/principles-of-effective-research/
+* An Opinionated Guide to ML Research - by John Schulman - http://joschu.net/blog/opinionated-guide-ml-research.html
 
 ### Productivity
 * Teach Yourself Programming in Ten Years - by Peter Norvig - http://norvig.com/21-days.html
