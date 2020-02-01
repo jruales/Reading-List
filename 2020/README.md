@@ -272,6 +272,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Khan Academy - Pixar in a Box - https://www.khanacademy.org/partner-content/pixar
 * Benedikt Bitterli - The secret life of photons (Blog Post tutorial on light transport) - https://benedikt-bitterli.me/tantalum/
 * Equations and Theory behind Google's Filament (Physically-Based Rendering Engine) - https://google.github.io/filament/Filament.md.html
+* Computational Photography: From Selfies to Black Holes - https://vas3k.com/blog/computational_photography/
 
 ### UI/UX
 * What is Peripheral Vision? - http://www.simplifyinginterfaces.com/2008/10/08/what-is-peripheral-vision/
