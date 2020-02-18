@@ -488,6 +488,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Stanford University - Mark Levoy - CS 178 - Digital Photography - http://graphics.stanford.edu/courses/cs178/
 * Google - Mark Levoy - Lectures on Digital Photography - https://www.youtube.com/watch?v=y7HrM-fk_Rc&list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i
 * Databricks Academy (Note: free for Microsoft employees) - https://academy.databricks.com/
+* MIT - The Missing Semester of Your CS Education - https://missing.csail.mit.edu/
 
 ### Taken Before (For Review)
 * Columbia University - Tony Jebara - Machine Learning 4771 - http://www.cs.columbia.edu/~jebara/4771/
