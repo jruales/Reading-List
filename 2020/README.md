@@ -549,3 +549,4 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Some Possible Career Goals by Julia Evans - https://jvns.ca/blog/2018/09/30/some-possible-career-goals/
 * Career advice for recent Computer Science graduates by Chip Huyen - https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * 7 absolute truths I unlearned as junior developer - https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
+* Personal Finance Wiki (from Reddit's r/personalfinance) - https://www.reddit.com/r/personalfinance/wiki/index
