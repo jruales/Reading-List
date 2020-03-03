@@ -266,6 +266,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
 * D3.js Documentation - https://github.com/mbostock/d3/wiki
+* Introduction to D3 - https://observablehq.com/@mitvis/introduction-to-d3
 
 ### Graphics
 * Eric Jang's List of Computer Graphics Resources - https://github.com/ericjang/awesome-graphics
