@@ -526,6 +526,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * You and Your Research - by Richard Hamming - [Video](https://www.youtube.com/watch?v=a1zDuOPkMSw&t=1s) | [Transcription](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 * Principles of Effective Research - by Michael Nielsen - http://michaelnielsen.org/blog/principles-of-effective-research/
 * An Opinionated Guide to ML Research - by John Schulman - http://joschu.net/blog/opinionated-guide-ml-research.html
+* Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations - by Andrew Kuznetsov - https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/
 
 ### Productivity
 * Teach Yourself Programming in Ten Years - by Peter Norvig - http://norvig.com/21-days.html
