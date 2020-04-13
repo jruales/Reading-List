@@ -325,6 +325,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Laws of Tech: Commoditize Your Complement - by Gwern Branwen - https://www.gwern.net/Complement#2
 * Quantum Randomness by Scott Aaronson on Scientific American - https://www.americanscientist.org/article/quantum-randomness
 * Sample Performance Based Interviewing (PBI) Questions - US Department of Veterans Afairs - https://www.va.gov/PBI/questions.asp
+* How to prepare a presentation - by Alfredo Canziani - https://youtu.be/y4N0_Tvt75s
 
 ## Music
 * Learn to play the following {Personally recommended by J.D. in late 2016}
