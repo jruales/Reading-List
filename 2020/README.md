@@ -262,6 +262,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Hugging Face: State-of-the-Art Natural Language Processing in ten lines of TensorFlow 2.0 - https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a
 * Machine Learning Interviews: Lessons from Both Sides - FSDL - by Chip Huyen - https://docs.google.com/presentation/d/1MX2V6fTp71j1aztvY5HLYM44iLG4HYMrYd4Dxn6Cxnw/edit#slide=id.g307a3e0e45_0_77
 * How to apply machine learning and deep learning methods to audio analysis - by Nikolas Laskaris - https://www.comet.ml/site/how-to-apply-machine-learning-and-deep-learning-methods-to-audio-analysis/
+* Perception Engines - https://medium.com/artists-and-machine-intelligence/perception-engines-8a46bc598d57
 
 ### Web Dev
 * React (JS) documentation https://facebook.github.io/react/docs/getting-started.html
