@@ -403,6 +403,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Writing Tools
 * LanguageTool - https://languagetool.org/
 * Scribens - https://www.scribens.com/
+* Fast Pages (Blogging platform backed by Markdown and ipynb) - https://fastpages.fast.ai/
 
 ### Misc.
 * Two factor auth list - https://twofactorauth.org/
