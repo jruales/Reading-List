@@ -318,6 +318,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 ### Diversity
 * How To Write Better Job Descriptions - by Ana Ulin - https://anaulin.org/blog/how-to-write-better-job-descriptions/
 * Thinking you do you and I do me - by Layla El Asri - https://speakingmachines.com/blog/2018/12/29/nbspthinking-you-do-you-and-i-do-menbsp
+* The Role CS Professors Have in Supporting Marginalized Students - https://medium.com/@victoriajyang/the-role-cs-professors-have-in-supporting-marginalized-students-f61de7dcec50
 
 ### Misc.
 * Mental Models - http://www.defmacro.org/2016/12/22/models.html
