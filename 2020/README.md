@@ -547,6 +547,7 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * The Feynman Technique: The Best Way to Learn Anything (article by Farnam Street) - https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
 * Calendar. Not to-do lists. by Devi Parikh - https://medium.com/@deviparikh/calendar-in-stead-of-to-do-lists-9ada86a512dd
 * 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
+* Effectiveness and Efficiency by Daniel Moth - http://www.danielmoth.com/Blog/Effectiveness-And-Efficiency.aspx
 
 ### Misc.
 * Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
