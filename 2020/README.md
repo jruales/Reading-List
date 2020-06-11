@@ -283,6 +283,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Google Big Picture Group visualizations - https://research.google.com/bigpicture/
 * The future of data visualization - https://www.youtube.com/watch?v=vc1bq0qIKoA
 * Designing for accessibility is not that hard - https://www.invisionapp.com/inside-design/designing-accessibility-not-hard/
+* UX Maturity Model: From Usable to Delightful - https://uxpamagazine.org/ux-maturity-model/
 
 ### Programming Languages
 * Implement Your Own Automatic Differentiation with Julia in ONE day - http://blog.rogerluo.me/2018/10/23/write-an-ad-in-one-day/
