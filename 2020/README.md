@@ -561,3 +561,5 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Career advice for recent Computer Science graduates by Chip Huyen - https://huyenchip.com/2018/10/08/career-advice-recent-cs-graduates.html
 * 7 absolute truths I unlearned as junior developer - https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/
 * Personal Finance Wiki (from Reddit's r/personalfinance) - https://www.reddit.com/r/personalfinance/wiki/index
+* Do I Need to Go to University? - https://colah.github.io/posts/2020-05-University/
+* Advice for Better Blog Posts by Rachel Thomas - https://www.fast.ai/2019/05/13/blogging-advice/
