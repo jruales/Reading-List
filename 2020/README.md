@@ -284,6 +284,8 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * The future of data visualization - https://www.youtube.com/watch?v=vc1bq0qIKoA
 * Designing for accessibility is not that hard - https://www.invisionapp.com/inside-design/designing-accessibility-not-hard/
 * UX Maturity Model: From Usable to Delightful - https://uxpamagazine.org/ux-maturity-model/
+* Some more CSS comics by Julia Evans - https://jvns.ca/blog/2020/08/10/some-more-css-comics/
+* CSS Vocabulary - http://apps.workflower.fi/vocabs/css/en
 
 ### Programming Languages
 * Implement Your Own Automatic Differentiation with Julia in ONE day - http://blog.rogerluo.me/2018/10/23/write-an-ad-in-one-day/
@@ -549,6 +551,8 @@ Sequence-to-sequence Models - http://phontron.com/class/mtandseq2seq2018/schedul
 * Calendar. Not to-do lists. by Devi Parikh - https://medium.com/@deviparikh/calendar-in-stead-of-to-do-lists-9ada86a512dd
 * 5 Ways to Increase Productivity by Siraj Raval - https://www.youtube.com/watch?v=N2_MtrTn1hE&feature=youtu.be
 * Effectiveness and Efficiency by Daniel Moth - http://www.danielmoth.com/Blog/Effectiveness-And-Efficiency.aspx
+* Attention is your scarcest resource by Ben Kuhn - https://www.benkuhn.net/attention/
+* GOTO 2012 • Scaling Yourself • Scott Hanselman - https://m.youtube.com/watch?v=FS1mnISoG7U
 
 ### Misc.
 * Pixar’s 22 Rules of Storytelling - by Emma Coats - https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/
