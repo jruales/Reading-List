@@ -390,6 +390,7 @@ Platform - http://stevenwhang.com/tfx_paper.pdf
 * Public Cloud Services Comparison - http://comparecloud.in/
 * Rosetta Code - https://rosettacode.org/wiki/Category:Programming_Tasks
 * Online Python Tutor - http://pythontutor.com/
+* Flexbox Playground - https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
 
 ### Math Tools
 * Matrix Calculus - http://www.matrixcalculus.org/
