@@ -1,4 +1,4 @@
-# Reading List 2021
+# Reading List 2022
 
 
 
@@ -15,9 +15,7 @@
 * The Three-Body Problem by Cixin Liu {Personally recommended by S.S. in late 2017}
 
 ### Non-Fiction -- Instructive
-* [100% done on 2021-02-06] Who Moved My Cheese? by Spencer Johnson
-* [100% done on 2021-04-03] The Art of Learning by Josh Waitzkin {Recommended by C.E. in late 2018}
-* [100% done on 2021-04-11] The Design of Everyday Things by Donald ("Don") Norman {Recommended on Coursera's HCI course I took several years ago}
+* [100% done on 2022-02-13] Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat
 * [51% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * [37% done] Lean Customer Development by Cindy Alvarez
 * Rocket Surgery Made Easy by Steve Krug {Probably advertised within "Don't Make Me Think"}
