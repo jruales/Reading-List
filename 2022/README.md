@@ -32,6 +32,7 @@
 * The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford {Recommended by K.B. in late 2019}
 * The Pragmatic Programmer by David Thomas and Andrew Hunt {Recommended by K.B. in late 2019}
 * Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger {Recommended by D.G.? in 2019}
+* Lean In by Sheryl Sandberg
 
 ### Biographical/Historical
 * Buffett: The Making of an American Capitalist by Roger Lowenstein {Personally recommended by M.C. in late 2015}
