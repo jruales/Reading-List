@@ -15,6 +15,7 @@
 * The Three-Body Problem by Cixin Liu {Personally recommended by S.S. in late 2017}
 
 ### Non-Fiction -- Instructive
+* [100% done on 2022-02-22] Emotional Intelligence: Why It Can Matter More Than IQ by Daniel Goleman
 * [100% done on 2022-02-13] Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat
 * [51% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
 * [37% done] Lean Customer Development by Cindy Alvarez
