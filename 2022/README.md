@@ -15,6 +15,8 @@
 * The Three-Body Problem by Cixin Liu {Personally recommended by S.S. in late 2017}
 
 ### Non-Fiction -- Instructive
+* [100% done on 2022-03-15] Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel and Blake Masters
+* [100% done on 2022-03-09] Kitchen Confidential: Adventures in the Culinary Underbelly by Anthony Bourdain
 * [100% done on 2022-02-22] Emotional Intelligence: Why It Can Matter More Than IQ by Daniel Goleman
 * [100% done on 2022-02-13] Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking by Samin Nosrat
 * [51% done] How To Win Friends and Influence People by Dale Carnegie {Personally recommended by M.Y. in 2015}
